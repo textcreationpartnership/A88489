@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The London printers lamentation, or, the press opprest, and overprest.</title>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88489</idno><idno type="EEBO-CITATION">99866229</idno>
+  <idno type="VID">118494</idno>
+  <idno type="EEBO-PROQUEST">2240953728</idno>
+  
+            <idno type="STC">Wing L2906</idno>
+            <idno type="STC">Thomason E765_16</idno>
+            <idno type="STC">ESTC R207159</idno>
+            <idno type="PROQUEST">99866229</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866229e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118494)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 117:E765[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The London printers lamentation, or, the press opprest, and overprest.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "1660 Sept. 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Printing industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118494:1"/>
+            <head>The <hi>London</hi> Printers Lamenta<g ref="char:EOLhyphen"/>tion, or, the Press opprest, and over<g ref="char:EOLhyphen"/>prest.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow Venerable and Worthily honoured in all Kingdomes and Common-wealths, the wonder<g ref="char:EOLhyphen"/>full and mysterious <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ion, Utility and Dig<g ref="char:EOLhyphen"/>nity of Printing ha<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> alw<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes been, can not be rationally contradicted, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>paring it specially with the miserable condition and bar<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>nesse of the Anti<g ref="char:EOLhyphen"/>ents aswell in the Eastern as the Wester<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rts of the World, (as <hi>Strabo de situ Orbis,</hi> write l. 3.) Who (as he saith) for the better conveying to Posterity the memorable Acts and Monu<g ref="char:EOLhyphen"/>ments of their present Times, conceive<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and contrived at first no better <hi>medium,</hi> than the Impression thereof with their fingers, or little sticks in Ashes or Sand, thinly dispersed and spread a<g ref="char:EOLhyphen"/>broad in Vaults and Cells: But experience being the Mistresse of Art, some better Wits at length invented Knives and other Instruments for the Incision of Letter<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Barks of Trees; O<g ref="char:EOLhyphen"/>thers, for the Graving or Carving of them in Stone; Others, with Pincers in Leaves of Lawrel, Fig-trees and other craffie leaves, (as in <hi>China,</hi> and other parts of the Indies and Eastern Countries) impressed their Memorials in uncouth Characters: Since that, the use of Lead was brought in estimation for the Insculption of words in a more convenient method. But (as the Adage is true, <hi>Facile est inventis addere,</hi> and use tends every day more and more to perfection) the happy experiment, first of Parchment, and then of Paper was ingeniously found out, with the use of Canes, Pencils, Quils, and Inck of several sorts: Yet all this while the benefit accrewing by that Invention, tended no further, than to the composing of one single Manu<g ref="char:EOLhyphen"/>script at one time, by the labour and Inscription of one single Person: The rarity and paucity whereof hath caused such ho<g ref="char:EOLhyphen"/>nour, reverence and Authority, to be put upon the Antiquities of our Antcessors as worthily they merit.</p>
+            <p>But at the Length, this vast expence of Time and paines en<g ref="char:EOLhyphen"/>forced mens wits (by a cogent necessity) to enquire into, and search out the more occult and secret Mysteries of Art, for their better convenience and communication of their Writings: And thereupon by the blessing of Almighty God, upon the stu<g ref="char:EOLhyphen"/>dy
+<pb n="2" facs="tcp:118494:2"/> and industry of <hi>John Cuthenburge,</hi> the rare and incomparable mystery and Science of Printing of Books, was invented and practized at <hi>Mentz</hi> in <hi>Germany,</hi> above 200. years agone; And soon after that Art was brought over into <hi>England</hi> by one <hi>Wil<g ref="char:EOLhyphen"/>liam Caxton,</hi> a Worshipfull Mercer of the famous City of <hi>London,</hi> and there put in use, with meritorious approbation of the Re<g ref="char:EOLhyphen"/>ligious and Virtuous King <hi>Henry</hi> the sixth, and all the Estates of this Kingdome. Since which time (being about 220 years elapsed) that ingenious Mystery, splendour of Art, and Propa<g ref="char:EOLhyphen"/>gatrix of Knowledge hath been duely countenan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and en<g ref="char:EOLhyphen"/>couraged with so much favour and respect of all our <hi>English</hi> Princes, that it is by laudable succession of time, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrived at that exquisite perfection, as we now see it in it self. For true is the Character of a Printer, to wit,
+<q>
+                  <l>
+                     <hi>Imprimit ille die, quantum non scribitur anno.</hi>
+                  </l>
+                  <l>In one dayes time a Printer will Print more,</l>
+                  <l>Than one man Write could in a Year before.</l>
+               </q>
+            </p>
+            <p>To pretermit the honour and esteem placed upon it in par<g ref="char:EOLhyphen"/>ticular by <hi>Henry</hi> the 8. and <hi>Edward</hi> the 6. and the Incorpora<g ref="char:EOLhyphen"/>tion of the Stationers Com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any by Queen <hi>Mary,</hi> meerly and onely for her favour and respect to the Printers, and not to the Booksellers (albeit they were both in their several faculties then constituted in one <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody and Society, under one generical and individual term of <hi>Stationers</hi>) Let us come to the Reign of the glorious Queen <hi>Elizabeth</hi> of ever blessed memory; And then we shall plainly and perspicuously discover her Majesties great love and Royal affection to Printing and Printers; who for the sake of them &amp; it, so far descended from her Royal Thron as that her Highness not only made several gracious Grants unto them for better maintaining their poor, but also graciously recōmended (for the speciall encouragement and better subsistence of the Master <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinters) the Regulat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of that Mystery, and the Pro<g ref="char:EOLhyphen"/>fessors thereof, to the Right Honourable and Judicious, the Lords of her M<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>esties most Honourable Privy Council: Who 23 <hi>Junii</hi> 28 <hi>Eliz.</hi> made a <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emorable and noble Decree in the <hi>Star Chamber,</hi> Consisting the number of M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Printers in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to the n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mber of <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wenty, to have the use and Exercise of Printing Houses for the time being; (be<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es her Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties Printers, and the Printers allowed for the Universities;) Li<g ref="char:EOLhyphen"/>mitting and confin<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them within such an excellent Method and strict Regulat<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, as <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d very much to the Peace and Security of the Church, and <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. But as the World waxeth
+<pb n="3" facs="tcp:118494:2"/> old as doth a Garment, and the corruptions and evill manners of Times and men grow daily to a greater maturity and ripe<g ref="char:EOLhyphen"/>ness in sin and wickednesse; And that all humane kinde are boldly inclined to rush through any forbidden mischief (like the old race of the Gyants, and the builders of <hi>Babel;</hi>) So in tract and processe of time, and specially in these later dayes (notwithstanding the severity and authority of that good De<g ref="char:EOLhyphen"/>cree of the Queens time,) Printing and Printers about the year 1637. were grown to such a monstrous excesse and exorbitant disorder, that the prudent Limits, and Rules of that laudable Decree, were as much transgressed and infringed at that time, as the Kings-Bench Rules in <hi>Southwark</hi> have been extended and eloined in later dayes, for want of due execution of Justice.</p>
+            <p>Wherefore by the speciall Command of our late Royal and most Illustr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous King <hi>Charls</hi> of blessed memory, the Right Ho<g ref="char:EOLhyphen"/>nourable <hi>Thomas</hi> Lord <hi>Coventry,</hi> Lord Keeper of the great Seale of <hi>England;</hi> The Lord Arch Bishop of <hi>Canterbury,</hi> his Grace, the Lord Bishop of <hi>London,</hi> Lord High Treasurer of <hi>England,</hi> the Lords Cheif Justices, and the Lord Chief Baron, being sate to<g ref="char:EOLhyphen"/>gether in Council in the <hi>Star-Chamber</hi> 11. <hi>July</hi> 13. <hi>Car.</hi> And reviewing and maturely considering the said Decree and Or<g ref="char:EOLhyphen"/>dinances of the Queens time; in very great Wisdome, Policy, and Prudence of State, thought fit and adjudged not onely to confirm the same, but also to make and subjoyn thereto seve<g ref="char:EOLhyphen"/>ral usefull and convenient Additions and Supplements, as the reason of State, and the necessity of the times did then require. Which last Decree with due renown to the memory of the ma<g ref="char:EOLhyphen"/>kers thereof) was the best and most exquisite Form and Con<g ref="char:EOLhyphen"/>stitution for the good Government and regulation of the Press, that ever was pronounced, or can reasonably be contrived, to keep it in due order and regular Exercise.</p>
+            <p>But now may we well with sorrow cry out at this day, with the Comaedian, <hi>O Tempora, O mores!</hi> or, in another sense, with the Spouse in the Canticles, <hi>Ca:</hi> 2. <hi>v.</hi> 15. <hi>Take us the Foxes, the little Foxes, that spoile the Vines, for our Vines have tender Grapes.</hi> Never was there such an honourable, ingenious and profitable Myste<g ref="char:EOLhyphen"/>ry and Science in the world so basely intruded upon, and dis<g ref="char:EOLhyphen"/>esteemed, so carelesly regarded, so unworthily subjected to in<g ref="char:EOLhyphen"/>famy and disgrace, by being made so common, as Printing hath been since 1640. in the dayes of our miserable confusions and Calamities: Neither can it be repaired, or restored to its na<g ref="char:EOLhyphen"/>tive worth and regular Constitution, so long as such horrid
+<pb n="4" facs="tcp:118494:3"/> Monstrosities and gibbous excrescences are suffered to remain and tumour in that disorderly and confused Body, as now it existeth in it self.</p>
+            <p>The excessive number of Printing-houses and Master Prin<g ref="char:EOLhyphen"/>ters, or such at least as use and exercise the faculty of Printing, (though some be <hi>Book-sellers</hi> onely by trade and education; and others are of other trades, not relative to Printing) is at pre<g ref="char:EOLhyphen"/>sent multiplied and encreased to above triple the number of twenty, constituted by that decree of the <hi>Starre-chamber:</hi> so that by means of that exorbitant and excessive number of above 60. Printing-houses in and about <hi>London,</hi> and the neces<g ref="char:EOLhyphen"/>sitous conditions of many of the Printers themselves, and the Imposition of others upon them (who if they will not adven<g ref="char:EOLhyphen"/>ture to print for them, what is unlawfull and offensive to the State and Government, (being treasonable and seditious, and most profitable for sale) shall not be imployed upon things lawfull and expedient) all the irregularities, inconveniences, and mischiefs, that can be imagined to be committed and done by the too much liberty and licenciousnesse of the Presse, have been and are occasioned at this day, and daily will (without some speedy remedy and restriction, for the better encourage<g ref="char:EOLhyphen"/>ment of the honest and ingenious Artists) be continued amongst us. How can it in reason be conceived to stand with the Royal<g ref="char:EOLhyphen"/>ty and Dignity of his most Excellent Majesty, (whom God Al<g ref="char:EOLhyphen"/>mighty prosper and preserve) or with the safety and security of his Kingdomes, to permit and suffer, either the fore-mentio<g ref="char:EOLhyphen"/>ned inconveniences for the future, or such notorious imp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eties and abhominable Indignities and Insolences, done and offered to his Majest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es most Sacred Person and Estate, to go unpunish<g ref="char:EOLhyphen"/>ed in the Actors thereof; who are neverthelesse in truth and reality his Majesties Printers; against whom there is just Cause of Complaint at this present. As for example, Mr. <hi>Christopher Barker</hi> and Mr. <hi>John Bill,</hi> by their education and quality have little or no skill or experience in the Faculty and Art of Print<g ref="char:EOLhyphen"/>ing, as to the manual operation thereof, being never brought up in that Mystery: And the old Proverb is and will be true, to wit, <hi>Senex Psittacus non capit ferulam.</hi> And albe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they are said and entitle themselves (by a very questionable and doubtfull Authority both in Law and Equity) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be his Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties Printers; yet indeed are they but nominal and titular; for that the ma<g ref="char:EOLhyphen"/>nual work and Impression it self, aswell of the late Acts of Par<g ref="char:EOLhyphen"/>liament, as also of his Majesties Proclamations, and other Roy<g ref="char:EOLhyphen"/>al.
+<pb n="5" facs="tcp:118494:3"/> Acts of State, hath been actually performed by <hi>Thomas New<g ref="char:EOLhyphen"/>come, John Feild</hi> and <hi>Henry Hills,</hi> printers: Which three persons, to give them their proper Characters, have been the onely In<g ref="char:EOLhyphen"/>struments and Incendiaries against, and Enemies, to his sacred Majesty and his Friends, in their Stations and qualities, before and ever since the detestable and unparallell'd Murder of our blessed Soveraign his Royal Father, as far as the extent of the Presse could make them capable or extant.</p>
+            <p>
+               <hi>Who Printed the pretended Act of the Commons of</hi> England <hi>for the setting up an High Court of Justice, for the tryall of his Martyred Ma<g ref="char:EOLhyphen"/>jesty in</hi> 1648? <hi>Or, The Acts for abolishing King-ship, and renouncing the Royall Line and Title of the</hi> Stuarts? <hi>Or, for the Declaring what Offences should be adjudged Treason? For taking the Engagement? for sale of Dean and Chapters Lands? for sale of the Kings, Queens, and Princes Goods and Lands; and the Fee-farme Rents? for sale of De<g ref="char:EOLhyphen"/>linquents Lands; or, the Proclam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion of</hi> 13. <hi>of</hi> September 165<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. After the sight at <hi>WORCE<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>TER, offering, One Thousand pound to any person, to bring in his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jesties pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n? but only</hi> John Feild, <hi>Prin<g ref="char:EOLhyphen"/>ter to the Parliament of</hi> England (<hi>and since by</hi> Cromwell <hi>was and is continued Printer to the Ʋniversity of</hi> Cambridge!) <hi>Omitting ma<g ref="char:EOLhyphen"/>ny other Treasonable Offences, and egregious Indignities done by him and</hi> H. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls, <hi>to the Royal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Family, and good old Cause of the King and Kingdome, in all the late Tyrannicall Ʋsurpations. Who Printed the Weekly</hi> Intelligencer, <hi>and</hi> Mercuriu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Politicus, <hi>with the</hi> Cases of the Common-wealth stated, <hi>and that</hi> Interest will not lye, <hi>for</hi> Marchamont Nedham, <hi>Gent. from</hi> 1650. <hi>till the blessed and assu<g ref="char:EOLhyphen"/>red hopes of his Majesties Restauration of late, but</hi> Thomas Newcome, <hi>Printer, Dwelling over against</hi> Baynards <hi>Castle in</hi> Thames-street! <hi>And with what familiar Titles of honour did they salute His Majesty therein (we pray,) but of young</hi> Tarquin, <hi>the son of the late</hi> Tyrant, <hi>the</hi> Titular <hi>King of</hi> Scots, <hi>the young</hi> Pretender, <hi>with an infinite more of the like treasonable extraction; which for brevitie-sake, and for that they are of</hi> Miltons <hi>strain, and so publiquely known, and were the weekly Trash and Trumpery of every Hawker, Pedlar, and Petty Car<g ref="char:EOLhyphen"/>rier, we omit.</hi>
+            </p>
+            <p>
+               <hi>But we cannot as yet pass-over his Majesties good friends,</hi> Hills <hi>and</hi> Feild (<hi>take them</hi> con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unctim <hi>or</hi> divisim:) <hi>What Zealots and Fa<g ref="char:EOLhyphen"/>ctors, (or blood-hounds and Tarriers rather) they have been for that</hi> ab<g ref="char:EOLhyphen"/>stract of <hi>Traitors, Tyrants and Ʋsurpers,</hi> O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iver Cromwell, <hi>his sonne</hi> Richard, <hi>and the pretended Committee of</hi> Safety, <hi>in searching for, seazing and suppressing (as far as they could) all Books, Treatises, and Papers, asserting the Kings Right and Title to the Crown, or tending to
+<pb n="6" facs="tcp:118494:4"/> the Promotion of his Interest and Vindication of his Authority, the worst of his Majesties Enemies must necessarily, with shame and Detestation confesse! And is this all that hath been done by</hi> Hills <hi>and</hi> Feild <hi>to his Majesty onely, and his Royall Relations nnd Interests? No! Their Im<g ref="char:EOLhyphen"/>pieties and Insolences have mounted as high, as to become actuall and professed Traitors against the glorious Crown and Dignity of the</hi> King <hi>of</hi> Kings, <hi>blessed for ever: Have they not invaded and still do intrude upon his Majesties Royall Priviledge, Praerogative and Praeminence; And by the pusillanimous Cowardize and insignificant Compact of Mr.</hi> Christopher Barker, <hi>and another of his name, and (not without pro<g ref="char:EOLhyphen"/>bable suspicion,) by the consent and connivence of Mr.</hi> John Bill <hi>(though he was artificially defeated in his expectations of profit;) Have they not obtained, (and now keep in their actuall possession) the Manuscript Copy of the last Translation of tho holy Bible in</hi> English, <hi>(attested with the hands of the Venerable and learned Translators in King</hi> James <hi>his time) ever since</hi> 6 <hi>March</hi> 1655. <hi>And thereupon by colour of an un<g ref="char:EOLhyphen"/>lawfull and enforced entrance in the</hi> Stationers <hi>Registry, printed and published ever since for the most part in severall Editions of Bibles (con<g ref="char:EOLhyphen"/>sisting of great numbers) such egregious Blasphemies and damnable Er<g ref="char:EOLhyphen"/>rata's, as have corrupted the pure Fountain, and rendred Gods holy Word contemptible to multitudes of the people at home, and a</hi> Ludibri<g ref="char:EOLhyphen"/>um <hi>to all the Adversaries of our Religion? Have they not suffocated and suppressed all Books containing Pious and Religious Prayers and Devotions to be presented and offered to the blessed Trinity for the blessing of Heaven upon his Majesties Royall Person and Family, and the Church and State, by preventing and obstructing the Printing of the Common Prayer, Primars, and Psalters, contrary to the Statute of</hi> 1. <hi>Q.</hi> Eliza<g ref="char:EOLhyphen"/>beth c. 2. <hi>and other good Laws and Ordinances, and the Ecclesiasti<g ref="char:EOLhyphen"/>call Canons of the Church of</hi> England; <hi>unlesse that they contained Prayers for their late Protector! And are these small Offences to be past and pardoned, or such as shall deserve the favour of Indempnity and Oblivion? God forbid!</hi>
+            </p>
+            <p>
+               <hi>Impunitas peccati praebet ansam peccandi.</hi> The not punishing of offences, emboldeneth offenders to commit greater Enormi<g ref="char:EOLhyphen"/>ties with brazen Browes, as if they were incorrigible: And (as the Proverb saith) <hi>He that saves a Thief from the Gallowes, shall first be robbed himself.</hi> Is not the King as the breath of our no<g ref="char:EOLhyphen"/>strills, the anoynted of the Lord, his person sacred, his au<g ref="char:EOLhyphen"/>thority dreadfull? And is not all our present and future se<g ref="char:EOLhyphen"/>curity and happinesse involved in his Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties preservation and prosperity? And shall his Majesties most apparent and im<g ref="char:EOLhyphen"/>placable enemies be cheifly entrusted in the great concern<g ref="char:EOLhyphen"/>ments of his State and Government, as <hi>Newcome, Hills</hi> and <hi>Field</hi>
+               <pb n="7" facs="tcp:118494:4"/> are under his Titular Printers? God forbid. Are there not honest and well affected Printers in <hi>London</hi> sufficient &amp; able and willing to serve his Majesty, but his grandest adversaries must be pick'd out for his service? And the Printing for his Majesty ma<g ref="char:EOLhyphen"/>naged at the House of that libidinous &amp; professed Adulterer <hi>H. Hills</hi> in <hi>Aldersgate-street,</hi> one that for his Heresie in Religion (be<g ref="char:EOLhyphen"/>ing an Anabaptist,) and his luxury in conversation (having hy<g ref="char:EOLhyphen"/>critically confessed his fact in Print, and been imprisoned for his Adultery with a Taylors Wise in <hi>Black-friers,</hi>) would scan<g ref="char:EOLhyphen"/>dalize a good Christian, and an honest man to be in his com<g ref="char:EOLhyphen"/>pany. But it seemes the old confederacy compacted between <hi>Barker, Hills,</hi> and <hi>Field,</hi> (by the agitation of <hi>Nedham,</hi>) upon their conversi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of the Copy of the Bible, cannot yet be for<g ref="char:EOLhyphen"/>gotten; albeit it tend neversomuch to the dishonour, dispa<g ref="char:EOLhyphen"/>ragement, and prejudice of his Majesties affaires? And there<g ref="char:EOLhyphen"/>fore it is more than time (as is humbly conceived,) that as well the establishment of his Majesties office of Printer, as also the regulation of the number of Printers in <hi>England</hi> within good Rules and Limits, were speedily provided for and deter<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned; and not any longer be carelesly and improvidently left and sub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o such extreme mis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hiefs, and fatal incon<g ref="char:EOLhyphen"/>veniences. And moreover it is very fit to be taken into serious consideration, how much mischief, and sedition a Press at <hi>New-England,</hi> may occasion and disperse in this Juncture of time, if the licenciousness thereof be connived at, and any longer tolerated; When as we daily see such ventilations of opinions, (inclining to factions and seditions) are the com<g ref="char:EOLhyphen"/>mon Marchandize of the Press about the City of <hi>London</hi> which to a sober Christian and Loyal Subject, are plainly destructive both of Church and Stare; which God for his glory, unite pre<g ref="char:EOLhyphen"/>serve and propagate in the old good Order and Government.</p>
+            <p>Having thus tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y represented to publick view the Cause of our Lamentation, We will never despair of his Majesties season<g ref="char:EOLhyphen"/>able and timely redress: Being humbly confident, that for want of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyal and dutifull information presented to his Majesty, many Phanaticks, and disaffected persons to His Person and Government, (by a little counterfeit conversion and hypo<g ref="char:EOLhyphen"/>critical subjection,) do continue and creep into his Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties Serv<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in many great places of trust and profit; who being dyed in grain in the principles of popular liberty, would wil<g ref="char:EOLhyphen"/>lingly cast off his Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties sacred Authority, and abandon his Person, as they did his Royal Fathers, if God for our sins
+<pb n="8" facs="tcp:118494:5"/> in Judgment, should permit them the least opportunity. <hi>Quod malum in factum avertat Deus?</hi>
+            </p>
+            <p>But briefly to conclude, we most humbly submit the neces<g ref="char:EOLhyphen"/>sity of our speedy reformation and redress, upon considerati<g ref="char:EOLhyphen"/>on of the many great miseries and calamities, that have hap<g ref="char:EOLhyphen"/>ned not only in <hi>England, Scotland,</hi> and <hi>Ireland;</hi> but also in <hi>Ger<g ref="char:EOLhyphen"/>many, France,</hi> the Netherlands, <hi>Switzerland,</hi> and other Coun<g ref="char:EOLhyphen"/>tries and places, by the exorbitant and unlawfull exercise of Printing in modern times: Which, had the science and use thereof been known in the time of the grand profession of the <hi>Donatist</hi> and <hi>Arian</hi> Heresies, would have immerged and drow<g ref="char:EOLhyphen"/>ned the whole World in a second Deluge of blood and confu<g ref="char:EOLhyphen"/>tion to its utter destruction long time since. Yet however if our mystery be confined within fit and convenien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bounds, and not permitted <hi>transilire limites,</hi> it is and will be of singular use and convenience to his Majesty and his Dominion <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> otherwise though the Art be so exquisite and excellent in it self, yet by Corruption and Depravation, it will become the more perni<g ref="char:EOLhyphen"/>cious and perillous; As the strongest and richest Wine for want of good curing, will turne to the sharpest vinegar; and a little wound, or contusion neglected, will soon mortifie and corrupt it self to an immedicable Gangraen.</p>
+            <q>
+               <l>Ignis ab exiguo nascens, extinguitur undâ;</l>
+               <l>Sed postquàm crevit, volitant{que} ad sydera flammae,</l>
+               <l>Vix putei, fontes, fluvij succurrere possunt.</l>
+               <l>A little fire to quench is done with ease;</l>
+               <l>But when it rages, and the flames encrease,</l>
+               <l>Ponds, Fountaines, Rivers scarce can it surcease.</l>
+            </q>
+            <p>The Application is easily inferr'd, in reference to the incon<g ref="char:EOLhyphen"/>venience of exorbitant and irregular Printing in general: And as for his Majesties titular Printers Mr. <hi>Barker</hi> and Mr. <hi>Bill,</hi> let them consider themselves, (as all otherwise men will and must do,) under this trite and excellent Aphorisme, to wit, <hi>Impos<g ref="char:EOLhyphen"/>sibile est, vel verè admodùm difficile, ut qui ipsa opera non tractant, pe<g ref="char:EOLhyphen"/>ritè valeant judicare.</hi>
+            </p>
+            <q>
+               <l>Impossible, or very hard be 't will,</l>
+               <l>To judge a work well, wherein th'ave no skill.</l>
+            </q>
+            <p>If a Presentment should be made of the matter of this com<g ref="char:EOLhyphen"/>plaint to any capable Inquest in this Kingdome, they would indorse it <hi>Bella vera,</hi> and not return it with an <hi>Ignoramus.</hi>
+            </p>
+            <p>All which is most humbly submitted to publick consideration, in hopes of Regulation and speedy Reformation.</p>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
